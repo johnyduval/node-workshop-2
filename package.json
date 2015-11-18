@@ -1,0 +1,26 @@
+{
+  "name": "my-workspace",
+  "version": "1.2.3",
+  "description": "my first package.json creation",
+  "main": "cps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnyduval/node-workshop-2.git"
+  },
+  "keywords": [
+    "first",
+    "module",
+    "get",
+    "fortune",
+    "cookie"
+  ],
+  "author": "Johny Duval (johny.duval@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnyduval/node-workshop-2/issues"
+  },
+  "homepage": "https://github.com/johnyduval/node-workshop-2#readme"
+}
