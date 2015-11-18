@@ -12,8 +12,7 @@ quotes[3]="'Do NOT go in there.'<p>";
 /* calculate a random index */
 var index = Math.floor(Math.random() * quotes.length);
 /* display the quotation */
-document.write("<p><DL>\n");
-document.write("<p><DT>" + quotes[index] + "\n");
-document.write("</DL>\n");
+return ("\n" + quotes[index] + "\n");
+
     
 }
